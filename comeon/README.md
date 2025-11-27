@@ -1,3 +1,8 @@
+## OutpUT
+
+![Login Page Screenshot](screenshot_login.png)
+![Dashboard Page Screenshot](dashboard_1.png)
+
 ## How to Run This Project
 
 To get started with the project, follow these steps:

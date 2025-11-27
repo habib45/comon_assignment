@@ -1,28 +1,3 @@
-## Environment Variables
-
-Create a `.env.local` file and set the following value before running any commands:
-
-```
-JWT_SECRET=replace-with-a-long-random-string
-```
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost://localhost:3000) with your browser to see the result.
-
----
 
 ## How to Run This Project
 
@@ -98,24 +73,7 @@ To provide a visual guide of the application, please add screenshots here. You c
 
 ### How to Add Screenshots:
 
-1.  Take screenshots of the relevant parts of the application (e.g., login page, game lobby, etc.).
-2.  Save the images in a suitable format (e.g., `.png`, `.jpg`) within the `public/images/` directory. For example: `public/images/screenshot_login.png`.
-3.  Reference the images in this `README.md` file using Markdown image syntax:
+![Login Page Screenshot](screenshot_login.png)
+![Dashboard Page Screenshot](dashboard_1.png)
+![Dashboard Page Screenshot](dashboard_2.png)
 
-    ```markdown
-    ![Login Page Screenshot](./public/images/screenshot_login.png)
-    ```
-
-    Replace `screenshot_login.png` with the actual filename and "Login Page Screenshot" with a descriptive alt text.
-
-    ```markdown
-    ![Dashboard Page Screenshot](./public/images/dashboard_1.png)
-    ```
-
-````markdown
-![Dashboard Page Screenshot](./public/images/dashboard_2.png)
-
-```
----
-```
-````
