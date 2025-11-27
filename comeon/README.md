@@ -76,20 +76,10 @@ To provide a visual guide of the application, please add screenshots here. You c
 2.  Save the images in a suitable format (e.g., `.png`, `.jpg`) within the `public/images/` directory. For example: `public/images/screenshot_login.png`.
 3.  Reference the images in this `README.md` file using Markdown image syntax:
 
-    ```markdown
-    ![Login Page Screenshot](./comeon/public/images/screenshot_login.png)
-    ```
+    ![Login Page Screenshot](screenshot_login.png)
 
     Replace `screenshot_login.png` with the actual filename and "Login Page Screenshot" with a descriptive alt text.
 
-    ```markdown
-    ![Dashboard Page Screenshot](./comeon/public/images/dashboard_1.png)
-    ```
+    ![Dashboard Page Screenshot](dashboard_1.png)
 
-````markdown
-![Dashboard Page Screenshot](./comeon/public/images/dashboard_2.png)
-
-```
----
-```
-````
+![Dashboard Page Screenshot](dashboard_2.png)
